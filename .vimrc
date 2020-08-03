@@ -12,6 +12,8 @@ set expandtab
 set mouse=r
 set nolist
 set clipboard=unamedplus
+set nocompatible
+set backspace=indent,eol,start
 
 highlight Comment ctermfg=green
 
